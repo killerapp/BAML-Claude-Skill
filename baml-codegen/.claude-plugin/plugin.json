@@ -1,0 +1,25 @@
+{
+  "name": "baml-codegen",
+  "version": "1.2.0",
+  "description": "Generate production-ready BAML applications from natural language requirements. Creates complete type definitions, functions, clients, tests, and framework integrations for data extraction, classification, RAG, and agent workflows.",
+  "author": {
+    "name": "FryrAI",
+    "email": "contact@fryr.ai",
+    "url": "https://github.com/FryrAI"
+  },
+  "repository": "https://github.com/FryrAI/BAML-Claude-Skill",
+  "homepage": "https://github.com/FryrAI/BAML-Claude-Skill",
+  "license": "Apache-2.0",
+  "keywords": [
+    "baml",
+    "code-generation",
+    "llm",
+    "structured-output",
+    "extraction",
+    "classification",
+    "rag",
+    "agents",
+    "multimodal"
+  ],
+  "category": "code-generation"
+}
