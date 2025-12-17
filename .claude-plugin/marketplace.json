@@ -15,7 +15,7 @@
       "name": "baml-codegen",
       "source": "./baml-codegen",
       "description": "Generate production-ready BAML applications from natural language requirements. Creates complete type definitions, functions, clients, tests, and framework integrations for data extraction, classification, RAG, and agent workflows.",
-      "version": "1.2.0",
+      "version": "1.3.0",
       "strict": false,
       "category": "code-generation",
       "keywords": [
