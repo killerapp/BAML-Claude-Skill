@@ -1,0 +1,15 @@
+{
+  "name": "baml-dev",
+  "version": "1.1.0",
+  "description": "Type-safe LLM extraction with BAML - schema design, testing, and debugging tools based on Vaibhav Gupta's reliability-first philosophy",
+  "author": {
+    "name": "FryrAI",
+    "email": "contact@fryr.ai",
+    "url": "https://github.com/FryrAI"
+  },
+  "repository": "https://github.com/FryrAI/BAML-Claude-Skill",
+  "homepage": "https://github.com/FryrAI/BAML-Claude-Skill",
+  "license": "MIT",
+  "keywords": ["baml", "llm", "extraction", "type-safe", "structured-output", "langgraph", "debugging", "testing"],
+  "category": "development-tools"
+}

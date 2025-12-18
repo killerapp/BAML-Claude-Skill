@@ -29,6 +29,24 @@
         "agents",
         "multimodal"
       ]
+    },
+    {
+      "name": "baml-dev",
+      "source": "./baml-dev",
+      "description": "Type-safe LLM extraction with BAML - schema design, testing, and debugging tools based on Vaibhav Gupta's reliability-first philosophy",
+      "version": "1.1.0",
+      "strict": false,
+      "category": "development-tools",
+      "keywords": [
+        "baml",
+        "llm",
+        "extraction",
+        "type-safe",
+        "structured-output",
+        "langgraph",
+        "debugging",
+        "testing"
+      ]
     }
   ]
 }
